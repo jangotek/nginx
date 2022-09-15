@@ -1,7 +1,7 @@
 nginx for Windows
 
 changelog:
-nginx 64-bit with headers-more module
+nginx 64-bit with headers-more module, updated zlib,pcre and openssl
 
 nginx version: nginx/1.22.0
 built by cl 19.29
