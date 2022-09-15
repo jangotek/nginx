@@ -1,2 +1,3 @@
+nginx stable v1.22.0
 nginx.exe md5:
 C845289772490B4C9E0F6ED44335E92A
