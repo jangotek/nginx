@@ -1,10 +1,8 @@
 nginx for Windows
 
 changelog:
-nginx stable v1.22.0 64-bit with headers-more module, updated zlib,pcre and openssl
-added brotli module
+nginx stable v1.22.0 64-bit with headers-more,brotli module, updated zlib,pcre and openssl
 
-nginx -V
 nginx version: nginx/1.22.0
 built by cl 19.29
 built with OpenSSL 1.1.1q  5 Jul 2022
