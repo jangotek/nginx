@@ -52,7 +52,7 @@ auto/configure \
     --with-mail_ssl_module \
     --with-stream_ssl_module \
     --with-stream_ssl_preread_module \
-	--add-module=objs/lib/ngx_brotli \
+    --add-module=objs/lib/ngx_brotli \
     --add-module=objs/lib/headers-more-0.34
 ------------------------------------------------------------------	
 x64 Native Tools Command Prompt:
