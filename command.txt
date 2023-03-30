@@ -10,7 +10,7 @@ git checkout v1.0.0rc
 git submodule update --init
 
 Git Bash:
-cd /e/Appz/Web Server/Nginx/windows compile/nginx 
+cd '/e/Appz/Web Server/Nginx/windows compile/nginx' 
 
 auto/configure \
     --with-cc=cl \
@@ -28,8 +28,8 @@ auto/configure \
     --http-scgi-temp-path=temp/scgi_temp \
     --http-uwsgi-temp-path=temp/uwsgi_temp \
     --with-cc-opt=-DFD_SETSIZE=1024 \
-    --with-pcre=objs/lib/pcre2-10.40 \
-    --with-zlib=objs/lib/zlib-1.2.12 \
+    --with-pcre=objs/lib/pcre2-10.42 \
+    --with-zlib=objs/lib/zlib-1.2.13 \
     --with-http_v2_module \
     --with-http_realip_module \
     --with-http_addition_module \
@@ -46,7 +46,7 @@ auto/configure \
     --with-http_slice_module \
     --with-mail \
     --with-stream \
-    --with-openssl=objs/lib/openssl-1.1.1q \
+    --with-openssl=objs/lib/openssl-1.1.1t \
     --with-openssl-opt='no-asm no-tests -D_WIN32_WINNT=0x0501' \
     --with-http_ssl_module \
     --with-mail_ssl_module \
