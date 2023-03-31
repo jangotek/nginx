@@ -48,7 +48,7 @@ auto/configure \
     --with-http_slice_module \
     --with-mail \
     --with-stream \
-    --with-openssl=objs/lib/openssl-1.1.1t \
+    --with-openssl=objs/lib/openssl-3.0.8 \
     --with-openssl-opt='no-asm no-tests -D_WIN32_WINNT=0x0501' \
     --with-http_ssl_module \
     --with-mail_ssl_module \
