@@ -58,6 +58,7 @@ auto/configure \
     --add-module=objs/lib/headers-more-0.34
 ------------------------------------------------------------------	
 x64 Native Tools Command Prompt:
+on nginx folder:
 nmake /f objs\MakeFile
 
 brotli:
